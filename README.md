@@ -14,7 +14,7 @@ There are several facts I would want to get across to the viewer hopefully in th
 ## Initial Sketches
 
 
-![part1](https://raw.githubusercontent.com/ramitasingh/Final-Project/blob/master/project-1.jpg)
+![part1](https://github.com/ramitasingh/Final-Project/blob/master/project-1.jpg)
 ![part2](https://raw.githubusercontent.com/ramitasingh/Final-Project/blob/master/project-2.jpg)
 ![part3](https://raw.githubusercontent.com/ramitasingh/Final-Project/blob/master/project-3.jpg)
 ![part4](https://raw.githubusercontent.com/ramitasingh/Final-Project/blob/master/project-4.jpg)
