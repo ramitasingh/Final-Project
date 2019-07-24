@@ -11,6 +11,13 @@ There are several facts I would want to get across to the viewer hopefully in th
 -Third ( I'm not sure if I should present this first ) is the trend of uninsured rates in the state over the past 10 years. The most recent data point is that of 2017 and I'm aware that the data is an anomaly. This visualization can then further lead to discussion about the possible reasons for the data point being so different
 -Finally, I'll talk about different factors that contribute to people being uninsured and how funding such programs can help overcome this.
 
+## Initial Sketches
+![part1](https://github.com/ramitasingh/Final-Project/blob/master/project-1.jpg)
+![part2](https://github.com/ramitasingh/Final-Project/blob/master/project-2.jpg)
+![part3](https://github.com/ramitasingh/Final-Project/blob/master/project-3.jpg)
+![part4](https://github.com/ramitasingh/Final-Project/blob/master/project-4.jpg)
+
+
 ## Stakeholders
 The stakeholders for this include 
 - The Healthcare Council of Western Pennsylvania
