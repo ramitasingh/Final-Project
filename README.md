@@ -1,4 +1,6 @@
 # Final-Project
+
+Here's the link to my main [portfolio](https://ramitasingh.github.io/Telling-Stories-with-Data/)
 # Outline
 
 For my project, I'm going to be focusing on creating a story for a project that I've been working on during my internship at the Healthcare Council of Western PA. The project focusses on increasing the rate of health insured people in the state with a current focus on increasing health insurance literacy. This means increasing awareness of the benefits of insurance and what insurance options people have. The Council aims to do this by conducting teach-the-trainer modules and certifying people who attend these sessions as 'health insurance literate', and this people in turn will continue to spread the information. Morevoer, a small monetary incentive is also provided to those attending these sessions.  While this sounds like a great project for community well being, it's hard to get a size-able amount of funding for the same. 
