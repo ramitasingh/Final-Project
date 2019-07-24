@@ -14,7 +14,7 @@ There are several facts I would want to get across to the viewer hopefully in th
 -Finally, I'll talk about different factors that contribute to people being uninsured and how funding such programs can help overcome this.
 
 ## Initial Sketches
-
+![part1](https://raw.githubusercontent.com/ramitasingh/Final-Project/master/project-1.jpg
 
 ![part1](https://github.com/ramitasingh/Final-Project/blob/master/project-1.jpg)
 ![part2](https://github.com/ramitasingh/Final-Project/blob/master/project-2.jpg)
