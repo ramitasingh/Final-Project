@@ -52,11 +52,12 @@ Finally to demonstrate the change over time in the state and the sudden disrupti
 I will utilise shorthand as the medium of presenting my project. I will try to follow the project structure I've laid out and convey as much as I can through the visualizations. I'm hoping that I can somehow create a path of increasing magnitude of solemness as the user scrolls down from on visualization to the next so that by the final visualization, they can be convinced of the necessity of this project (ie, the funding! ). I will probably avoid the use of multimedia like music and video for this presentation.
 
 # Part 2
-Upon doing quite a bit of research, I had to modify bits of Part 1 and change the flow of my story.
+Upon doing quite a bit of research, I had to modify bits of Part 1 and change the flow of my story. I noticed Pennsylvania had a good trend in terms of health insurance rates ( or here I'm talking in terms of uninsured rates) so this would not give the audience a sense of alarm about wanting to change the trend. I transitioned into stating facts that show that uninsurance is still a problem in the country
 
-I showed a first draft of my shorthand storyboard to a few people and received relevant feedback. 
+I showed a first draft of my [shorthand storyboard](<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/health_insurance/"><h1>Health Insurance 101</h1><p>Why increase health insurance literacy in the state? </p></div>) to a few people and received relevant feedback. 
 
-The target audience I want my story to reach is the more underserved population of Pennsylvania. I want to increase awareness about the program and let people know that resources exist that can help with a topic as complicated as health insurance, whether they want to obtain it or if they have questions in general.
+The target audience I want my story to reach is the more underserved population of Pennsylvania. I want to increase awareness about the program and let people know that resources exist that can help with a topic as complicated as health insurance, whether they want to obtain it or if they have questions in general. But this also means I need the general population to be an audience because they are an important medium of spreading this awareness.
 
 I interviewed 4 people to gain more insights and I wanted to use people either in the healthcare community or those affected by it. So I asked an employee at the Healthcare Council of Pennsylvania who oversees the health equity department,  a participant of one the health care insurance sessions , a graduate student and a friend of mine who lost her job and her insurance.
 I was able to ask two in person and two through an e-mail.
