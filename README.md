@@ -110,7 +110,7 @@ The findings from my interviews
  
  You can also access [my Github data respository](https://github.com/ramitasingh) for further information. 
  
- I would like to thank my professor, Matthew Hannigan for all the insights and the opportunity for this project and of course the other Matthew, our Teaching Assistant for dealing with my nonsensical messages and all the help. 
+ I would like to thank my professor, Christopher Goranson for all the insights and the opportunity for this project and of course the  Matthew, our Teaching Assistant for dealing with my nonsensical messages and all the help. 
  
  # References 
  
