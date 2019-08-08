@@ -113,6 +113,7 @@ The findings from my interviews
  I would like to thank my professor, Matthew Hannigan for all the insights and the opportunity for this project and of course the other Matthew, our Teaching Assistant for dealing with my nonsensical messages and all the help. 
  
  # References 
+ 
  1.Qunicy , L Measuring health insurance literacy: A call to action, 2012. Retrieved from http://consumersunion.org/research/measuring-health-insurance-literacy-a-call-to-action
  2. Kaiser Family Foundation, Assessing Americans’ Familiarity With Health Insurance Terms
 and Concepts, November 2014. Available online at: http://kff.org/health-reform/poll-finding/
@@ -122,10 +123,10 @@ assessing-americans-familiarity-with-health-insurance-terms-and-concepts/
  5. Health Literacy Initiatives, Health Care Improvement Foundation, https://hcifonline.org/health-literacy/
  
  Pictures utilised in my Shorthand can be accessed through these links
- [](https://www.forbes.com/sites/trevercartwright/2019/07/09/dont-make-your-confusion-my-problem/)
- [](https://www.worldatlas.com/articles/which-states-border-pennsylvania.html )
- [](https://www.hioscar.com/blog/compare-oscars-2019-health-insurance-plans )
- [](https://www.nusgram.com/tag/HealthWest )
- [](https://youtu.be/0WmIi9JCQoY)
+ [Image 1](https://www.forbes.com/sites/trevercartwright/2019/07/09/dont-make-your-confusion-my-problem/)
+ [Image 2](https://www.worldatlas.com/articles/which-states-border-pennsylvania.html )
+ [Image 3](https://www.hioscar.com/blog/compare-oscars-2019-health-insurance-plans )
+ [Image 4](https://www.nusgram.com/tag/HealthWest )
+ [Image 5](https://youtu.be/0WmIi9JCQoY)
 
 
