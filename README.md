@@ -112,14 +112,14 @@ The findings from my interviews
  
  I would like to thank my professor, Matthew Hannigan for all the insights and the opportunity for this project and of course the other Matthew, our Teaching Assistant for dealing with my nonsensical messages and all the help. 
  
- References 
-   Qunicy , L Measuring health insurance literacy: A call to action, 2012. Retrieved from http://consumersunion.org/research/measuring-health-insurance-literacy-a-call-to-action
- 1. Kaiser Family Foundation, Assessing Americans’ Familiarity With Health Insurance Terms
+ # References 
+ 1.Qunicy , L Measuring health insurance literacy: A call to action, 2012. Retrieved from http://consumersunion.org/research/measuring-health-insurance-literacy-a-call-to-action
+ 2. Kaiser Family Foundation, Assessing Americans’ Familiarity With Health Insurance Terms
 and Concepts, November 2014. Available online at: http://kff.org/health-reform/poll-finding/
 assessing-americans-familiarity-with-health-insurance-terms-and-concepts/
- 2. Small Area Health Insurance Estimates (SAHIE) Program, 2017. US Census Bureau 
- 3. Kathryn A. Paez, Coretta J. Mallery, HarmoniJoie Noel, Christopher Pugliese, Veronica E. McSorley, Jennifer L. Lucado & Deepa Ganachari (2014) Development of the Health Insurance Literacy Measure (HILM): Conceptualizing and Measuring Consumer Ability to Choose and Use Private Health Insurance, Journal of Health Communication, 19:sup2, 225-239, DOI: 10.1080/10810730.2014.936568
- 4. Health Literacy Initiatives, Health Care Improvement Foundation, https://hcifonline.org/health-literacy/
+ 3. Small Area Health Insurance Estimates (SAHIE) Program, 2017. US Census Bureau 
+ 4. Kathryn A. Paez, Coretta J. Mallery, HarmoniJoie Noel, Christopher Pugliese, Veronica E. McSorley, Jennifer L. Lucado & Deepa Ganachari (2014) Development of the Health Insurance Literacy Measure (HILM): Conceptualizing and Measuring Consumer Ability to Choose and Use Private Health Insurance, Journal of Health Communication, 19:sup2, 225-239, DOI: 10.1080/10810730.2014.936568
+ 5. Health Literacy Initiatives, Health Care Improvement Foundation, https://hcifonline.org/health-literacy/
  
  Pictures utilised in my Shorthand can be accessed through these links
  [](https://www.forbes.com/sites/trevercartwright/2019/07/09/dont-make-your-confusion-my-problem/)
