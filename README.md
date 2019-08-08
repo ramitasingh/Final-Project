@@ -1,6 +1,8 @@
 # Final-Project
 
 Here's the link to my main [portfolio](https://ramitasingh.github.io/Telling-Stories-with-Data/)
+
+# Part 1
 # Outline
 
 For my project, I'm going to be focusing on creating a story for a project that I've been working on during my internship at the Healthcare Council of Western PA. The project focusses on increasing the rate of health insured people in the state with a current focus on increasing health insurance literacy. This means increasing awareness of the benefits of insurance and what insurance options people have. The Council aims to do this by conducting teach-the-trainer modules and certifying people who attend these sessions as 'health insurance literate', and this people in turn will continue to spread the information. Morevoer, a small monetary incentive is also provided to those attending these sessions.  While this sounds like a great project for community well being, it's hard to get a size-able amount of funding for the same. 
@@ -95,5 +97,20 @@ The findings from my interviews
  
  4.Friend who lost insurance
  This was a last minute response so I wasn't able to incorporate much of the feedback but I will work on it. The link to my storyboard had been updated so she did get to see the latest version of my storyboard with everyone else's input. She didn't have too much to contribute about the technicalities but she did say that it lacked an emotional appeal to people who are at risk of not having health insurance. This makes a lot of sense to me but I don't know how to shift the tone through the storyboard but I will definitely ponder over it. 
+ 
+ # Part 3
+ # Changes in project 
+ On closer evaluation of data avaliable, I realised my story would be more meaningful if the Council's work was included as part of the bigger picture of the social idea of reducing health insurance literacy. I found data on how bad people were faring on common health insurance questions which seemed the perfect way to visualize an alarming social message. Thus I shifted the focus of my story to the unsatisfactory health insurance literacy rates in the country and the need to improve it. The project in my internship is however, mentioned as one of the attempts to change this. The data of insurance coverage rates is instrumental in my story because it brings to light how it might not be the best outcome measure for healthcare in the country. I found it hard to create a time-series map of the health insurance rate with my limited techincal abilities, but being the Gen Z that I am, I was able to convert my maps to a GIF (with inexperienced Google searches on 'free GIF online'), to briefly show the transition. I still included Pennsylvania data because I thought on a short-term scale, the audience this would reach would be living in and around Pittsburgh. While I thought it would be an easy task to gather information for the 10 year scale, 2008-2017, using 10 very detailed datasets from the Census and cleaning them in R was a huge task and very time consuming. It yielded a good result, so it was time well spent.
+ 
+ My intended audience now became the general public, but more specifically groups that were more prone to having low health literacy levels which include people who either have no insurance or cheaper health insurance plans. This includes people of low socioeconomic status, racial minorities, immigrants and refugees and people who are uninsured in the state of Pennsylvania. The Census Bureau estimates that approximately 900,000 individuals in the state are uninsured and 911,000 are immigrants. The good thing is the survey data I used had specifics about people without insurance so it was easy to compare and contrast with those who did. People  Nevertheless, my message was for the general public because any individual can be instrumental in spreading the information.If a person who was well off was aware of someone in need of help, they would be equipped with resources to provide to these individuals.
+ 
+ The data that changed the course of my assignment was the [survey](https://www.kff.org/health-reform/perspective/a-perilous-gap-in-health-insurance-literacy/) conducted by the Kaiser Family Foundation. Since this was conducted on a very large scale, the results were quite conclusive. Of course I continued to use the [Census data] (https://www.census.gov/programs-surveys/sahie.html) to show the health insurance coverage rates, that seemed good but in reality, not reflective of the health care provided to people. 
+ 
+ Thus, I present the story of a snapshot of Healthcare in America, where people are having trouble getting health care despite having insurance or not getting healthcare because they are unaware of the benefits of insurance. My story on Shorthand can be viewed [here](https://carnegiemellon.shorthandstories.com/hil/index.html)
+ 
+ You can also access [my Github data respository](https://github.com/ramitasingh) for further information. 
+ 
+ I would like to thank my professor, Matthew Hannigan for all the insights and the opportunity for this project and of course the other Matthew, our Teaching Assistant for dealing with my nonsensical messages and all the help. 
+ 
  
 
