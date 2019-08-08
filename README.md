@@ -108,7 +108,7 @@ The findings from my interviews
  
  Thus, I present the story of a snapshot of Healthcare in America, where people are having trouble getting health care despite having insurance or not getting healthcare because they are unaware of the benefits of insurance. My story on Shorthand can be viewed [here](https://carnegiemellon.shorthandstories.com/hil/index.html)
  
- You can also access [my Github data respository](https://github.com/ramitasingh) for further information. 
+ You can also access [my Github data respository](https://github.com/ramitasingh) for further information!
  
  I would like to thank my professor, Christopher Goranson for all the insights and the opportunity for this project and of course the  Matthew, our Teaching Assistant for dealing with my nonsensical messages and all the help. 
  
